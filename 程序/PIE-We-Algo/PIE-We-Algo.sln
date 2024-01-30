@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PIE-We-Algo", "PIE-We-Algo.csproj", "{ACC8735B-1FF2-42C0-889F-7025FCC38962}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACC8735B-1FF2-42C0-889F-7025FCC38962}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACC8735B-1FF2-42C0-889F-7025FCC38962}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACC8735B-1FF2-42C0-889F-7025FCC38962}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACC8735B-1FF2-42C0-889F-7025FCC38962}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53693B82-4A70-4A46-AF23-AC0E40D4F97B}
+	EndGlobalSection
+EndGlobal
