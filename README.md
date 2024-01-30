@@ -1,5 +1,6 @@
 # PIESDK 开次开发实习
 > ***本项目仅作记录，并无其他作用。*** <br>
+> ***本次实习最终成果在[`本仓库`](https://github.com/RS-Imagine/PIESDK 'PIESDK')的[`程序`](https://github.com/RS-Imagine/PIESDK/tree/main/%E7%A8%8B%E5%BA%8F '实习成果')文件夹中*** <br>
 > [二次开发程序介绍网页](https://rsimagine.eu.org/)通过[ Netlity 平台](https://app.netlify.com/)部署<br>
 ## 需求分析
 ***NEP(Net Ecosystem Production)*** ，即**净生态系统生产力**，是指陆地生态系统碳储存的能力，作为陆地生态系统碳收支平衡的重要标志，对全球碳循环和气候变化的研究有重要的价值。随着计算机和遥感技术的兴起和发展，遥感数据和大数据被普遍应用在地表、生态系统、气象和水域的持续监测，对土地利用动态变化和陆地生态系统生产力等方面的研究有着重要的作用。
