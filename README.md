@@ -1,5 +1,5 @@
 # PIESDK 开次开发实习
-> ***本项目仅作记录，并无其他作用。*** <br>
+> ***本仓库仅作记录，并无其他作用。*** <br>
 > ***本次实习最终成果在[`本仓库`](https://github.com/RS-Imagine/PIESDK 'PIESDK')的[`程序`](https://github.com/RS-Imagine/PIESDK/tree/main/%E7%A8%8B%E5%BA%8F '实习成果')文件夹中*** <br>
 > [二次开发程序介绍网页](https://rsimagine.eu.org/)通过[ Netlity 平台](https://app.netlify.com/)部署<br>
 ## 需求分析
